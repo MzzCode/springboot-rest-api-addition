@@ -1,0 +1,4 @@
+com\myproject\restapi\pojo\AddResponse.class
+com\myproject\restapi\pojo\AddRequest.class
+com\myproject\restapi\BasicRestApiApplication.class
+com\myproject\restapi\controller\MyController.class
